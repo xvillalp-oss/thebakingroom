@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://thebakingroom.com.mx/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://thebakingroom.com.mx/hero-2.jpg</image:loc>
+      <image:title>The Baking Room® — Pastelería Artesanal CDMX</image:title>
+      <image:caption>Pasteles personalizados bajo pedido en Ciudad de México</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://thebakingroom.com.mx/florales-1.jpg</image:loc>
+      <image:title>Pastel floral artesanal · The Baking Room CDMX</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thebakingroom.com.mx/fairy-1.jpg</image:loc>
+      <image:title>Fairy forest cake · The Baking Room CDMX</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thebakingroom.com.mx/bakery-birthday.jpg</image:loc>
+      <image:title>Pastel de cumpleaños personalizado · The Baking Room</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thebakingroom.com.mx/logo-tbr.jpg</image:loc>
+      <image:title>The Baking Room® · logo</image:title>
+    </image:image>
+  </url>
+</urlset>
